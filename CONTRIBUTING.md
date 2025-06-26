@@ -76,7 +76,7 @@ $ git push -f origin feature-or-bug-fix-description
 
 ## Coding standard
 
-This repository follows the [PSR-2 standard](http://www.php-fig.org/psr/psr-2/) and so, if you want to contribute,
+This repository follows the [PSR-12 standard](https://www.php-fig.org/psr/psr-12/) and so, if you want to contribute,
 you must follow these rules.
 
 
