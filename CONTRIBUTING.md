@@ -44,6 +44,8 @@ Write code and tests. When you are ready, run the tests.
 $ composer test
 ```
 
+
+
 When you are ready with the code, tested it and documented it, you can commit and push it with the following commands:
 
 ``` bash
@@ -79,6 +81,11 @@ $ git push -f origin feature-or-bug-fix-description
 This repository follows the [PSR-12 standard](https://www.php-fig.org/psr/psr-12/) and so, if you want to contribute,
 you must follow these rules.
 
+To ensure that your code meets the coding standards, you can run the linter using the following command:
+
+```bash
+$ composer lint
+```
 
 ## Semver
 
